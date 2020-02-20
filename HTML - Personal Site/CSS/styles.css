@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  color: #010a43
+}
+
+
+body {
+  background-image: url("clouds1.jpg");
+}
+
+hr {
+border-style: none;
+border-top-style:dotted;
+border-color: grey;
+border-width: 5px;
+width: 5%
+}
